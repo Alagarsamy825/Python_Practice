@@ -129,6 +129,6 @@ print(df["category"].value_counts())
 
 # Step 5: Save CSV
 
-df.to_csv("Stories.csv", index=False)
+df.to_csv(f"trends_{datetime.now().strftime('%Y-%m-%d')}.csv", index=False)
 
-print("\nSuccessfully saved Stories.csv")
+print("\nSuccessfully saved Trends.csv")

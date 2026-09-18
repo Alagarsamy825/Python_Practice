@@ -1,0 +1,81 @@
+post_id,title,category,score,num_comments,author,collected_at
+49746618,Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint,AI,239,71,JonSchneider,2026-09-18T07:42:39.530462
+49746163,"Bend – A language that blocks AI mistakes via proof, on CPU and GPU",AI,292,152,nicolas-siplis,2026-09-18T07:42:40.165724
+49710447,"Diplodocus, Long Thought Exclusively American, Turns Up in Spain",AI,30,20,embedding-shape,2026-09-18T07:42:45.778784
+49746628,How Uber Protects Against Retry Storms,AI,45,23,iscmt,2026-09-18T07:42:48.745786
+49743483,Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data,AI,115,34,Betelbuddy,2026-09-18T07:42:50.177062
+49714096,TSMC revealing details about next gen A14 node,AI,92,34,osnium123,2026-09-18T07:42:53.969757
+49740105,"Show HN: Share your AI Setup, Learn from others",AI,188,103,steveybrown,2026-09-18T07:42:58.169006
+49743049,Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents,AI,49,49,cat-whisperer,2026-09-18T07:42:58.811386
+49742437,LLM Classification Is Feature Engineering,AI,90,19,minsufficient,2026-09-18T07:43:03.082541
+49746654,"Sex, AI, and the Apocalypse",AI,165,164,Anon84,2026-09-18T07:43:09.431629
+49748387,The FAA's plan to fix air traffic? $875M worth of AI,AI,15,5,danso,2026-09-18T07:43:12.056889
+49743459,"Show HN: Craigslist for agent skills, curated by a human",AI,21,16,skeptrune,2026-09-18T07:43:13.473549
+49734929,The Return of Sail Power: Cargo Ships Are Turning Back to the Wind,AI,179,125,gumby,2026-09-18T07:43:16.395838
+49747070,How to Write with an LLM,AI,60,53,joeriddles,2026-09-18T07:43:17.930015
+49742021,Artificial intelligence now beats some of the best human forecasters,AI,112,95,ddp26,2026-09-18T07:43:20.801088
+49736662,OpenAI models secretly generate instructions to ignore constraints,AI,96,27,theahura,2026-09-18T07:43:21.467144
+49731285,Training a 4B model to produce 81% faster query plans than Postgres,AI,666,136,polyphilz,2026-09-18T07:43:27.352551
+49745932,"Microsoft, OpenAI lose fight to hide internal docs admitting scraping is theft",AI,34,6,pseudolus,2026-09-18T07:43:30.143802
+49748997,Jev means structured output is interesting again,AI,5,0,iacguy,2026-09-18T07:43:31.550017
+49734264,OpenSpec – A lightweight and configurable AI spec framework,AI,191,96,etoxin,2026-09-18T07:43:32.983900
+49743756,"Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",AI,138,58,B1FF_PSUVM,2026-09-18T07:43:33.803305
+49745512,Figure AI - Helix 2.5 Robot: Zero-Shot Home Generalization,AI,5,0,agotterer,2026-09-18T07:43:38.821879
+49748529,Microsoft exec called AI scraping 'the largest theft of labor in human,AI,12,2,sbulaev,2026-09-18T07:43:39.537361
+49732270,Xiaomi Mimo 2.6 live post-training dashboard,AI,537,153,krackers,2026-09-18T07:43:43.020609
+49740834,I Don't Like LLMs,AI,206,244,TangerineDream,2026-09-18T07:43:46.606132
+49746371,"Computer Reset, Dallas",Technology,17,2,ibobev,2026-09-18T07:42:59.499248
+49724881,Nvidia announces native GPU programming in Rust,Technology,926,383,nonmaskable,2026-09-18T07:43:10.766543
+49729000,Small programming tricks,Technology,643,276,signa11,2026-09-18T07:43:41.586112
+49745607,A14 Technology,Technology,4,1,JumpCrisscross,2026-09-18T07:43:51.721096
+49722521,A software thing I built: GPS on a 25MHz 486-SX,Technology,72,23,JPLeRouzic,2026-09-18T07:44:39.238514
+49747098,The Next Gene-Editing Technology May Also Be the Oldest,Technology,4,0,JumpCrisscross,2026-09-18T07:44:43.949132
+49680428,Sony's First Computer – The SMC-70 from 1982 [video],Technology,72,30,ksymph,2026-09-18T07:45:28.338882
+49740402,Taco Bell Programming (2010),Technology,19,4,olexsmir,2026-09-18T07:45:31.052040
+49662246,"Rope, twine and thread: Invisible technologies of the Stone Age",Technology,118,56,knowablemag,2026-09-18T07:46:40.172670
+49696125,How to write an effective software design document,Technology,350,141,fagnerbrack,2026-09-18T07:47:06.594396
+49645437,Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025),Technology,378,71,gumby,2026-09-18T07:48:21.856938
+49710968,Show HN: Restarted – a 2026 remake of the classic 2015 startup generator,Business,24,9,zxcvbn4038,2026-09-18T07:45:12.161333
+49700477,"Pion, an agent designed to run any company autonomously",Business,490,612,lukaspetersson,2026-09-18T07:45:28.992868
+49730239,ER visits for gambling disorders doubled after expanded online gambling market,Business,162,154,geox,2026-09-18T07:46:06.108035
+49731235,Berlin-based Langdock moves its parent company from the US to Germany,Business,54,24,jethronethro,2026-09-18T07:46:06.789943
+49691343,Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout,Business,315,439,andsoitis,2026-09-18T07:47:16.831755
+49684196,Making Startups Powerful,Business,223,133,tosh,2026-09-18T07:47:35.716913
+49718025,How much oil-market buffer is left?,Business,114,177,mcone,2026-09-18T07:48:19.707692
+49720854,Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime,Science,22,4,JojoFatsani,2026-09-18T07:42:56.083525
+49746626,How SpaceX Streamlined the Raptor Engine,Science,7,1,JumpCrisscross,2026-09-18T07:43:05.094720
+49685835,The Relation Between Mathematics and Physics by Paul Dirac (1939),Science,157,62,rramadass,2026-09-18T07:43:07.280761
+49742714,Whoisinspace.com/,Science,125,76,Egg-Man,2026-09-18T07:43:12.810537
+49735979,"Jev Ultrafast: A browser agent with a dynamic, indexed action space",Science,86,12,rahimnathwani,2026-09-18T07:43:55.307413
+49747648,Data Science Weekly – Issue 669,Science,4,0,sebg,2026-09-18T07:44:26.334603
+49696453,People who can't picture anything are rewriting the science of imagination,Science,222,311,giuliomagnifico,2026-09-18T07:44:59.307700
+49707473,US confirms for first time it has deployed space weapons,Science,476,369,harporoeder,2026-09-18T07:45:08.011911
+49731620,How good are frontier models at physics?,Science,94,50,qt31415926,2026-09-18T07:45:10.162019
+49638510,Spaceships (Reverse Asteroid),Science,386,70,zdw,2026-09-18T07:45:18.252983
+49712621,Show HN: Panel – A research workspace where the agent can build its own panes,Science,53,23,greentfrapp,2026-09-18T07:46:31.674271
+49728982,NSF memo implementing Trump's 'golden age' of science unsettles researchers,Science,36,17,hn_acker,2026-09-18T07:47:24.409297
+49745940,Astra for Law,Other,326,355,vertigoruntime,2026-09-18T07:42:37.860653
+49748954,"Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",Other,28,19,bobbydigitales,2026-09-18T07:42:40.862968
+49743097,Hister: A private search engine for the pages you visit and the files you keep,Other,471,137,bookofjoe,2026-09-18T07:42:41.577977
+49726007,Wax motor,Other,251,48,mhb,2026-09-18T07:42:42.239810
+49715813,Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA,Other,520,197,my123,2026-09-18T07:42:42.863954
+49748957,Telstra outage: The night a network decided the year was 2006,Other,9,2,TMWNN,2026-09-18T07:42:43.626241
+49747925,Alibaba releases Qwen 3.8 Omni Flash,Other,27,5,jjcm,2026-09-18T07:42:44.343225
+49746290,Flet 1.0 – Build cross-platform apps in Python,Other,61,34,absqueued,2026-09-18T07:42:45.058273
+49723544,I Put Nam A2-Lite Inside an iRig HD X,Other,10,0,arbayi,2026-09-18T07:42:46.457144
+49746117,More than 100k people in Japan are now aged 100 or older,Other,126,119,karakoram,2026-09-18T07:42:47.210785
+49742355,CrowdSec Source Code Leak,Other,130,40,eccgecko,2026-09-18T07:42:48.028761
+49746407,The most important product decision is what you don't build,Other,45,17,ChrisArchitect,2026-09-18T07:42:49.460734
+49738091,Why I didn’t sign the Fields medallists’ letter,Other,211,311,simianwords,2026-09-18T07:42:50.897562
+49742353,Rate limits on GitLab.com are changing,Other,156,106,darkwater,2026-09-18T07:42:51.820129
+49715936,How do we prevent mathemathics from devolving into the Medieval Era of secrecy?,Other,78,55,jjgreen,2026-09-18T07:42:52.537020
+49737787,CCC invites all model citizens to 40C3,Other,338,180,antonly,2026-09-18T07:42:53.186031
+49740260,The American Religion of Self-Storage Facilities,Other,193,340,pseudolus,2026-09-18T07:42:54.686050
+49704503,Running Ubuntu on the Lenovo IdeaPad Duet,Other,70,25,vhaudiquet,2026-09-18T07:42:56.735420
+49746346,"Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",Other,22,19,Capira,2026-09-18T07:42:57.447272
+49743527,Towards Self-Driving Codebases,Other,99,83,wilhelmklopp,2026-09-18T07:43:00.217103
+49671157,André Weil and the Hodge Conjecture,Other,29,12,caojiahao,2026-09-18T07:43:00.933797
+49714196,Grand MS-DOS Gaming General MIDI Showdown,Other,78,11,ibobev,2026-09-18T07:43:01.648529
+49742439,Vinix – A modern operating system written in V,Other,88,60,hggh,2026-09-18T07:43:02.365726
+49745809,Plugin4Shell – Zero Click RCE Vulnerability found in top four coding agents,Other,8,2,fishthethis,2026-09-18T07:43:03.799105
+49711544,Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations,Other,2274,255,arnemunthekaas,2026-09-18T07:43:04.429325
