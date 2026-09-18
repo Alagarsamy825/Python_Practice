@@ -1,0 +1,75 @@
+post_id,title,category,score,num_comments,author,collected_at
+49662371,A misalignment of AI in mathematics,AI,805,803,meredydd,2026-09-12T11:41:54.434953
+49668914,OpenAI agents attacked RubyGems back in May,AI,17,1,lumpa,2026-09-12T11:41:57.570516
+49626718,A Design Space Exploration of Async/Await,AI,225,48,wcrichton,2026-09-12T11:41:59.616589
+49666735,OpenAI agents carried out an undisclosed attack on RubyGems,AI,561,323,chao-,2026-09-12T11:42:00.256815
+49662767,Litelm: LiteLLM Without the Bloat,AI,119,39,kennethwolters,2026-09-12T11:42:03.098267
+49665711,AI researchers debate how close we are to recursive self-improvement,AI,85,74,artninja1988,2026-09-12T11:42:04.529475
+49656225,Claude is only available to people over 18 years,AI,617,621,Muhammad523,2026-09-12T11:42:13.031371
+49663054,CIA Releases President's Daily Briefs in Commemoration of 9/11,AI,131,64,stmw,2026-09-12T11:42:18.150470
+49667253,Bernie's AI bill proposes to sentence AI developers to 20 years in prison,AI,39,13,bilsbie,2026-09-12T11:42:29.824408
+49659647,"Show HN: Hacker News, without AI",AI,181,84,postalcoder,2026-09-12T11:42:32.692563
+49667846,"OpenAI: ""We use ... de-identified data to improve ChatGPT""",AI,14,6,nycdatasci,2026-09-12T11:42:37.506371
+49660482,Hacker News with reduced priority for AI driven content,AI,114,54,sammy0910,2026-09-12T11:42:38.143970
+49660783,"Show HN: Hacker News, Without AI",AI,181,77,otherayden,2026-09-12T11:42:42.712224
+49647300,Detecting and countering misuse of AI: September 2026,AI,173,234,garo-pro,2026-09-12T11:42:47.026645
+49649213,OpenAI Agents API,AI,338,178,aquir,2026-09-12T11:42:47.742729
+49651046,Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe,AI,70,61,zdw,2026-09-12T11:42:48.391764
+49666267,They do think AI might kill everyone,AI,27,0,vladmashk,2026-09-12T11:42:51.841806
+49658483,Show HN: Clawfight.ai MCP-driven agentic game play,AI,13,13,wesleyhales,2026-09-12T11:42:53.273409
+49661856,Show HN: Extension to filter LLM written articles,AI,16,1,nilsherzig,2026-09-12T11:42:54.577212
+49644179,AI Is Breaking This Thing We Call Trust,AI,115,61,matheusml,2026-09-12T11:42:55.936506
+49665862,FreelanceFend – AI web app and extension to screen freelance clients,AI,3,0,RezonReiTy,2026-09-12T11:42:57.371278
+49626190,Shopify acquires Tailwind,AI,1136,444,EdwinHoksberg,2026-09-12T11:42:59.828909
+49639408,More questions about whether researchers can trust OpenAI with unpublished math,AI,861,806,pred_,2026-09-12T11:43:03.412428
+49666769,ChatGPT puts 20x Plan on hold,AI,13,1,josefchen,2026-09-12T11:43:04.233856
+49613072,Compute-efficient pretraining and scaling to trillion-parameter models,AI,117,62,ronfriedhaber,2026-09-12T11:43:06.251857
+49622406,Logo Programming Language,Technology,258,106,azhenley,2026-09-12T11:42:10.881446
+49662214,Λ Snap – An inviting programming language for kids and adults for CS study,Technology,133,75,dr_kiszonka,2026-09-12T11:42:11.600411
+49645437,Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025),Technology,370,70,gumby,2026-09-12T11:42:53.929719
+49624856,How I advertise malicious software on Google Ads,Technology,432,260,xlii,2026-09-12T11:44:09.801042
+49646181,I have a theory that software drives people insane,Technology,459,195,rglover,2026-09-12T11:44:28.089608
+49605246,How well do agents use test/verification techniques?,Technology,189,72,vinhnx,2026-09-12T11:44:35.184421
+49621102,"A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",Technology,101,22,porridgeraisin,2026-09-12T11:44:37.316743
+49612191,C*: Unifying Programming and Verification in C (2025),Technology,82,59,rramadass,2026-09-12T11:45:29.643084
+49662246,"Rope, twine and thread: Invisible technologies of the Stone Age",Technology,3,0,knowablemag,2026-09-12T11:45:52.785092
+49596055,Caltech Mathathon – first hackathon ever devoted to research level mathematics,Technology,269,105,astroanax,2026-09-12T11:45:54.219348
+49597806,The origins of Partner’s computer case,Technology,40,5,markostamcar,2026-09-12T11:45:58.419022
+49605182,Run an ArchiveTeam Warrior on your computer,Technology,36,0,darknavi,2026-09-12T11:46:32.721902
+49594251,Switzerland's Federal Government Is Replacing Microsoft on 3k Computers,Technology,370,290,ivell,2026-09-12T11:47:37.644873
+49604581,Show HN: Vertumnus – printable posters of farmers' market produce seasonality,Business,47,18,perspectivezoom,2026-09-12T11:43:13.246639
+49630606,"Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",Business,48,15,dimitrismrtzs,2026-09-12T11:44:51.243007
+49621074,The Nonfiction Book Market is Collapsing?,Business,56,65,samclemens,2026-09-12T11:45:50.633758
+49633640,DHS Program Analyzes Americans' Finances to Flag Drivers for Traffic Stops,Business,35,1,randycupertino,2026-09-12T11:47:17.677818
+49659974,Show HN: HolaOS––An Opensourced workspace that alternative to Claude,Science,3,0,TommyKKam,2026-09-12T11:44:05.572856
+49652239,Towards a taxonomy of cliches in Space Opera,Science,10,0,rznicolet,2026-09-12T11:44:56.188365
+49586667,Extracting Steering Vectors from J space,Science,66,18,martianvoid,2026-09-12T11:45:28.311851
+49587903,Research carried out using NetBSD,Science,104,29,Bluestein,2026-09-12T11:46:34.779361
+49638674,AutoResearchExam: Measuring agents' ability to improve and generalize,Science,3,0,matt_d,2026-09-12T11:47:41.228235
+49638510,Spaceships (Reverse Asteroid),Science,3,0,zdw,2026-09-12T11:47:44.198227
+49612463,Do you think it happened? Research stolen from their Codex private chats,Science,79,25,KingOfMyRoom,2026-09-12T11:47:48.891437
+49668386,Google no longer provides direct URLs in search results,Other,262,132,1e1a,2026-09-12T11:41:53.162581
+49668706,Clay Mathematics Institute on the Navier-Stokes Problem,Other,60,25,rvz,2026-09-12T11:41:53.797652
+49668777,Usenet rewind archive search engine,Other,27,4,cstadler1869,2026-09-12T11:41:56.089818
+49662990,I spent $220 on Google app ads and 60% of the installs were robots,Other,434,222,nickabe,2026-09-12T11:41:56.852016
+49668198,Pandas Should Go Extinct,Other,120,66,__eddie__,2026-09-12T11:41:58.285342
+49624456,Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them,Other,38,2,bookofjoe,2026-09-12T11:41:58.936802
+49643011,Designing for Dual Screen and Foldable Devices with CSS (2023),Other,16,2,mooreds,2026-09-12T11:42:00.914801
+49663373,GrapheneOS' rewritten Messages app is released,Other,240,155,microtonal,2026-09-12T11:42:01.664737
+49662020,Mind-altering drugs played key role in rise of Andean civilization,Other,136,87,geneticdrifts,2026-09-12T11:42:02.379779
+49666146,Project Blinkenlights,Other,69,28,doener,2026-09-12T11:42:03.813767
+49665864,"Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",Other,50,14,mirza_rizvi,2026-09-12T11:42:05.246136
+49633824,Fileless ELF Execution via Kernel Keyring,Other,6,4,matheuzsec_,2026-09-12T11:42:05.873126
+49601138,I've operated petabyte-scale ClickHouse clusters for 5 years,Other,196,74,adastral,2026-09-12T11:42:06.584070
+49667188,Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents,Other,29,12,zachsaw,2026-09-12T11:42:07.250701
+49624717,AlphaGenome maps 9B DNA variants,Other,78,7,ltononro,2026-09-12T11:42:08.013410
+49660149,Rune is now open source,Other,165,57,ernestrc,2026-09-12T11:42:08.730723
+49634928,Testing Race Conditions,Other,35,0,alpaylan,2026-09-12T11:42:09.448064
+49662672,The EPA is planning to scrap public review rules for data center pollution,Other,428,298,doener,2026-09-12T11:42:10.163579
+49649789,Show HN: Bodily Oddities,Other,194,147,vesterde,2026-09-12T11:42:12.238529
+49667375,Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies,Other,88,51,upofadown,2026-09-12T11:42:13.748446
+49652105,Google will buy half the electricity from one of Finland's nuclear power plants,Other,331,300,lukaspetersson,2026-09-12T11:42:15.284361
+49635043,How we rebuilt complex permissions without migrating to Zanzibar,Other,41,11,FinnLobsien,2026-09-12T11:42:16.002001
+49656471,"RTK reports token savings, but our cost benchmarks disagree",Other,151,77,michalwarda,2026-09-12T11:42:16.717720
+49610834,How the Chorleywood Bread Process transformed British bread,Other,110,108,baud147258,2026-09-12T11:42:17.434178
+49660676,Show HN: Godot and Rust based multiplexer (terminal panes and more),Other,86,43,1nv1n,2026-09-12T11:42:18.870325
